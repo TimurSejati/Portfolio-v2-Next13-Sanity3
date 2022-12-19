@@ -14,7 +14,7 @@ function Header() {
             height={50}
             alt="logo"
           /> */}
-          <h1>The TimurDev</h1>
+          <h1>TimurDev Blog</h1>
         </Link>
       </div>
       <div>
